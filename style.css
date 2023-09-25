@@ -13,9 +13,10 @@
 /* 3. Recheck the ratio now. Afterwards, go to the HTML file.*/
 
 body {
-    background-color: #d93f3f;
-    color: #eb2626;
+    background-color: #eccbfb;
+    color: #0f5c61;
 }
+h2 {color: #3e3097;}
 
 
 .food-pic {
@@ -24,8 +25,8 @@ body {
 
 .title {
     text-align: center;
-    color: #eb2626;
-    border: #eb2626 solid 5px;
+    color: #0f5c61;
+    border: #512791 solid 5px;
     border-radius: 30px;
     font-family: 'Italianno', cursive;
     font-size: 90px;
